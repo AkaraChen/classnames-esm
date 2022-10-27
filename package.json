@@ -1,6 +1,6 @@
 {
   "name": "@akrc/classnames",
-  "version": "2.3.2",
+  "version": "2.3.3",
   "main": "index.js",
   "repository": "https://github.com/AkaraChen/classnames-esm.git",
   "author": "AkaraChen <85140972+AkaraChen@users.noreply.github.com>",
